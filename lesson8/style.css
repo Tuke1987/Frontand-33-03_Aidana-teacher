@@ -1,0 +1,31 @@
+img{
+    width: 1000px;
+    height: 400px;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+.slides {
+    width: 1000px;
+    height: 400px;
+    background: gray;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+.prev {
+    margin-left: 514px;
+}
+
+.next {
+    margin-left: 430px;
+}
+
+.delete_button {
+    width: 150px;
+    height: 40px;
+    background-color: darkred;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
